@@ -1,6 +1,6 @@
 {
 	"compiler": {
-		"version": "0.8.26+commit.8a97fa7a"
+		"version": "0.8.28+commit.7893614a"
 	},
 	"language": "Solidity",
 	"output": {
@@ -235,7 +235,7 @@
 					},
 					{
 						"internalType": "uint32",
-						"name": "update_id",
+						"name": "updateId",
 						"type": "uint32"
 					}
 				],
@@ -511,7 +511,7 @@
 			"bytecodeHash": "ipfs"
 		},
 		"optimizer": {
-			"enabled": false,
+			"enabled": true,
 			"runs": 200
 		},
 		"remappings": []
@@ -542,11 +542,11 @@
 			]
 		},
 		"@openzeppelin/contracts/utils/Address.sol": {
-			"keccak256": "0xaaa1d17c1129b127a4a401db2fbd72960e2671474be3d08cae71ccdc42f7624c",
+			"keccak256": "0x6d0ae6e206645341fd122d278c2cb643dea260c190531f2f3f6a0426e77b00c0",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://cb2f27cd3952aa667e198fba0d9b7bcec52fbb12c16f013c25fe6fb52b29cc0e",
-				"dweb:/ipfs/QmeuohBFoeyDPZA9JNCTEDz3VBfBD4EABWuWXVhHAuEpKR"
+				"bzz-raw://032d1201d839435be2c85b72e33206b3ea980c569d6ebf7fa57d811ab580a82f",
+				"dweb:/ipfs/QmeqQjAtMvdZT2tG7zm39itcRJkuwu8AEReK6WRnLJ18DD"
 			]
 		},
 		"@openzeppelin/contracts/utils/Context.sol": {
@@ -566,11 +566,11 @@
 			]
 		},
 		"BurnManger.sol": {
-			"keccak256": "0x7db3ec0524c2a61bf2b66d1e785a7f9b0a91fddad109c74e25c46121a199590e",
+			"keccak256": "0x1b3e4a9b713e285b3b751cc200137911565f7b7cce129dbb18afc48c84e323f9",
 			"license": "MIT",
 			"urls": [
-				"bzz-raw://f83bd6c10eb760b6fb02ee085d3987d77022f6bc9cea36e651fe1215bb89e4c9",
-				"dweb:/ipfs/QmZ2mNcnM8BNYgUjq3z6FStzver7gcan22Bpow7ddQf7pG"
+				"bzz-raw://6ca5e2136af1c0e8c19ac9680959507e8b0564ba97a5c6d483f42df976f1d01b",
+				"dweb:/ipfs/QmRtZQQGZmEnCfDn7B4MKyqNX53ySQQUUWkZbUtrn69NMg"
 			]
 		}
 	},
